@@ -26,3 +26,10 @@ pip install -r requirements.txt
 # Add CEREBRAS_API_KEY to config.py
 python -m streamlit run app.py
 ```
+
+## Demo
+
+![Pipeline run](assets/Screenshot%202026-06-18%20112836.png)
+![Execution trace](assets/Screenshot%202026-06-18%20112905.png)
+![Verify action](assets/Screenshot%202026-06-18%20112928.png)
+![Agent registry](assets/Screenshot%202026-06-18%20112954.png)
